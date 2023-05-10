@@ -1,0 +1,63 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    width: 89%;
+    padding-left: 36px;
+    background-color: #0c0c0cba;
+    margin-left: 65px;
+    box-shadow: 0px 10px 29px red;
+    border-radius: 17px;
+  
+}
+.picture img{
+    margin-right: 36px;
+    margin-top: 15px;
+    width: 36rem;
+    border-radius: 12px;
+    margin-left: 36px;
+    box-shadow: 2px 20px 22px white;
+    height: 96%;
+}
+.bookticket{
+    font-size: 17px;
+    font-weight: bold;
+    border-radius: 11px;
+    position: fixed;
+    font-family: economic;
+    top: 43rem;
+    box-shadow: 4px 3px;
+    background-color: deepskyblue;
+    padding: 19px;
+    left: 83rem;
+}
+.showname{
+    font-family: economic;
+    font-size: 3rem;
+    text-align: center;
+    color: white;
+}
+.showname h3{
+    box-shadow: 26px 7px 27px white;
+    border-radius: 9px;
+    background-color: black;
+}
+.showsummary h4{
+    border-radius: 13px;
+    box-shadow: 3px 5px 13px yellow;
+    color: yellow;
+    font-family: economic;
+    text-align: center;
+    font-size: 30px;
+}
+.showsummary p{
+    padding: 49px;
+    background-color: dimgrey;
+    color: white;
+    font-family: economic;
+    font-weight: bold;
+    box-shadow: -2px -2px 15px 8px white;
+    border-radius: 17px;
+    margin: 70px;
+    font-size: 24px;
+}
